@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Graduate Research Assistant at Pennsylvania State University",
     location: "Malvern, Pennsylvania",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Engineered a Django app on Azure Cloud for real-time data analysis, reducing processing time by 40%, while also developing an innovative X-path-based web scraping solution that streamlined data collection by 60%. Leveraged ETL processes and data analytics to create interactive dashboards, boosting operational efficiency by 25% in a dynamic research environment",
     icon: React.createElement(LuGraduationCap),
     date: "2023 - 2024",
   },
@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Senior Associate at PwC",
     location: "Bengaluru, India",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Engineered a robust Azure solution leveraging Azure Durable Functions, Azure Storage, and Azure Web Apps to achieve a 40% reduction in workflow processing time and 50% faster data retrieval, while ensuring 99.9% uptime. Additionally, developed a CI/CD pipeline with Azure DevOps and integrated Azure SQL using Entity Framework, reducing deployment time by 60%, enhancing query performance by 45%, and boosting overall application efficiency by 30%.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2023",
   },
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Software Developer at MuSigma",
     location: "Bengaluru, India",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "Designed and implemented user-friendly, responsive frontend components using React for an internal application, while contributing to RESTful API development, optimizing backend performance by 20%, and streamlining deployment through CI/CD pipeline integration.",
     icon: React.createElement(FaReact),
     date: "2021 - 2021",
   },
